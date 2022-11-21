@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoComplete App</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+</resources>
